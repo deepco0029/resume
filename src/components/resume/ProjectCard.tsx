@@ -96,7 +96,6 @@ type TSkillIcon = {
   vue2: string
   react: string
   node: string
-  java: string
   spring: string
 }
 
@@ -106,7 +105,6 @@ const SkillStackIcon: TSkillIcon = {
   react: `${domainUrl}/src/assets/img/icon/react.png`,
   node: `${domainUrl}/src/assets/img/icon/node.png`,
   struts2: `${domainUrl}/src/assets/img/icon/struts2.png`,
-  java: `${domainUrl}/src/assets/img/icon/java.png`,
   spring: `${domainUrl}/src/assets/img/icon/spring.png`
 }
 

@@ -20,3 +20,16 @@ $ npm run dev
 $ npm run build
 
 ```
+## 배포(firebase)
+
+```bash
+// firebase tool install
+$ npm install -g firebase-tools
+
+// firebase 설정
+$ firebase init
+
+// firebase 배포
+$ firebase deploy
+
+```

@@ -1,6 +1,6 @@
 ## 소개
 
- - React를 학습하기 위해 간단하게 만든 이력서 입니다.
+ - React를 학습하기 위해 간단하게 만든 이력서 프로젝트 입니다.
 
 ## 적용기술
  - React + Redux + Saga + Typescript 조합의 Framework 구성
